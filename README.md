@@ -98,4 +98,4 @@ pip install -r requirements.txt
 
 ## Acknowledgement
 
-This project is based on the customer churn ANN problem from Krish Naik's `Ineuron-ANN` repository and was rebuilt independently as a learning project with additional preprocessing, evaluation, and class-imbalance experimentation.
+This project was built as a hands-on learning project to understand the complete workflow of customer churn prediction using Artificial Neural Networks, including preprocessing, model training, evaluation, class imbalance handling, and prediction on new data.
